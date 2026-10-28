@@ -1,0 +1,2 @@
+import {sqliteTable,text,integer} from 'drizzle-orm/sqlite-core';
+export const books=sqliteTable('books',{id:text('id').primaryKey(),title:text('title').notNull(),description:text('description').notNull(),amazonUrl:text('amazon_url').notNull(),coverKey:text('cover_key').notNull(),createdAt:integer('created_at').notNull()});
