@@ -10,7 +10,7 @@
     {
       "binding": "DB",
       "database_name": "sabith-books",
-      "database_id": "00000000-0000-4000-8000-000000000000",
+      "database_id": "3d28ab3d-3a9d-4a20-b607-be0f429e2444",
       "migrations_dir": "drizzle"
     }
   ],
