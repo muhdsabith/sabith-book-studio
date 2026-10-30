@@ -22,7 +22,7 @@
   ],
   "vars": {
     "OWNER_EMAIL": "sabith4400@gmail.com",
-    "ACCESS_TEAM_DOMAIN": "",
-    "ACCESS_AUD": ""
+    "ACCESS_TEAM_DOMAIN": "cold-bonus-daf8.cloudflareaccess.com",
+    "ACCESS_AUD": "91bee96da1dafa827e276c932f63ba457259e62e767aec51779f5e56cb6b3d3f"
   }
 }
